@@ -1,0 +1,77 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.sd_wrap{
+	width: 100%;
+	background: #bb343b;
+	min-width: 1200px;
+}
+.sd_banner1{
+	width: 100%;
+}
+.sd_banner2{
+	width: 100%;
+	margin-top: -5px;
+}
+.sd_banner1 img{
+	width: 100%;
+}
+.sd_banner2 img{
+	width: 100%;
+}
+.sd_main1{
+	width: 1200px;
+	height: 1168px;
+	margin: 0 auto;
+}
+.sd_main2{
+	width: 1200px;
+	height: 1500px;
+	margin: 0 auto;
+}
+.sd_dp1{
+	width: 294px;
+	height: 384px;
+	background: #fff;
+	margin-right: 8px;
+	margin-bottom: 8px;
+	float: left;
+}
+.sd_img1{
+	width: 294px;
+	height: 294px;
+	text-align: center;
+}
+.sd_xx{
+	width: 294px;
+	height: 90px;
+	background: #f1aaca;
+}
+.sd_title{
+	width: 294px;
+	height: 22px;
+	text-align: center;
+	font-family: "微软雅黑";
+	font-size: 14px;
+	color: #000;
+	line-height: 3em;
+}
+.sd_jg{
+	width: 294px;
+	height: 38px;
+	color: #bb0b5b;
+	text-align: center;
+	font-size: 22px;
+	font-family: "微软雅黑";
+	line-height: 2em;
+}
+.sd_buy{
+	width: 82px;
+	height: 21px;
+	margin: 0 auto;
+	background: url(images/sd_buy.png) no-repeat;
+}
+.sd_b1{
+	margin-right: 0 !important;
+}
